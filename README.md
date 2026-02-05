@@ -219,7 +219,7 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
     </div>
     <li> Multímetro</li>
     <div align="center">
-        <img src="image-1.png" width="500" alt="Multímetro"/>
+        <img src="image-3.png" width="500" alt="Multímetro"/>
         <br>
         <figcaption>Fuente: https://radiomecano.com.ar/Instrumentos-de-Medicion/90-0223260_TESTER-UNI-T-UT-33C-DIGITAL-CTEMPERATURA.html</figcaption>
     </div>
