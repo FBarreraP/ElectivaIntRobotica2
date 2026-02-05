@@ -26,16 +26,16 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
         <td>06/02/2026</td> <td>2</td> <td>2</td> <td>1</td> <td>Introducción a los robots UR</td>
     </tr>
     <tr>
-        <td>09/02/2026</td> <td>2</td> <td>3</td> <td>2</td> <td>UR Sim</td>
+        <td>09/02/2026</td> <td>2</td> <td>3</td> <td>2</td> <td>Formación en línea de CB3</td>
     </tr>
     <tr>
-        <td>13/02/2026</td> <td>2</td> <td>4</td> <td>2</td> <td>Practica robots UR5 y UR10</td>
+        <td>13/02/2026</td> <td>2</td> <td>4</td> <td>2</td> <td>UR Sim</td>
     </tr>
     <tr>
         <td>16/02/2026</td> <td>2</td> <td>5</td> <td>3</td> <td>COPPELIA SIM</td>
     </tr>
     <tr>
-        <td>20/02/2026</td> <td>2</td> <td>6</td> <td>3</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+        <td>20/02/2026</td> <td>2</td> <td>6</td> <td>3</td> <td>Practica robots UR5 y UR10</td>
     </tr>
     <tr>
         <td>23/02/2026</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
