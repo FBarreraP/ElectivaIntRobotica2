@@ -144,25 +144,16 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
         <td>Corte</td> <td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td>
     </tr>
     <tr>
-        <td rowspan="2">Primer (20%)</td> <td>Parcial</td> <td>10%</td> <td>03/03/2026</td> <td rowspan="7">Presencial</td>
+        <td>Primer (20%)</td> <td>Quices y/o laboratorio</td> <td>20%</td> <td>20/02/2026<br>23/02/2026<br>27/02/2026<br>02/03/2026<br>06/03/2026</td> <td rowspan="4">Presencial</td>
     </tr>
     <tr>
-        <td>Quices y/o laboratorio</td> <td>10%</td> <td>19/02/2026<br>24/02/2026<br>26/02/2026</td> 
+        <td>Segundo (30%)</td> <td>Quices y/o laboratorio</td> <td>30%</td> <td>27/03/2026<br>06/04/2026<br>10/04/2026<br>13/04/2026<br>17/04/2026</td>
     </tr>
     <tr>
-        <td rowspan="2">Segundo (30%)</td> <td>Parcial</td> <td>15%</td> <td>14/04/2026</td>
+        <td rowspan="2">Tercer (50%)</td> <td>Quices y/o laboratorio</td> <td>20%</td> <td>24/04/2026<br>27/04/2026<br>04/05/2026<br>08/05/2026<br>11/05/2026<br>15/05/2026<br>22/05/2026<br>25/05/2026<br>29/05/2026</td>
     </tr>
     <tr>
-        <td>Quices y/o laboratorio</td> <td>15%</td> <td>24/03/2026<br>26/03/2026<br>07/04/2026<br>09/04/2026</td>
-    </tr>
-    <tr>
-        <td rowspan="3">Tercer (50%)</td> <td>Examen final</td> <td>15%</td> <td>26/05/2026</td>
-    </tr>
-    <tr>
-        <td>Quices y/o laboratorio</td> <td>15%</td> <td>07/05/2026<br>12/05/2026<br>14/05/2026<br>19/05/2026<br>21/05/2026</td>
-    </tr>
-    <tr>
-        <td>Proyecto</td> <td>20%</td> <td>07/05/2026<br>12/05/2026<br>14/05/2026<br>19/05/2026<br>21/05/2026</td>
+        <td>Proyecto</td> <td>30%</td> <td>24/04/2026<br>27/04/2026<br>04/05/2026<br>08/05/2026<br>11/05/2026<br>15/05/2026<br>22/05/2026<br>25/05/2026<br>29/05/2026</td>
     </tr>
 </table>
 
@@ -212,40 +203,24 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
 
 <ul>
     <li> Computador 💻</li>
-    <li> Visual Studio Code</li>
-    <li> Raspberry Pi 3B/3B+/4B con Raspbian</li>
-    <img src="https://www.cnx-software.com/wp-content/uploads/2019/06/Raspberry-Pi-4-vs-Pi-3-Large.jpg" alt="Imagen de Raspberrys Pi 3B y 4B" caption="RPi 3B vs RPi 4B tomado de: https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/10777Image1.jpg"/>
-    <li> Brazo robótico 5 GDL</li>
-    <img src="https://yorobotics.co/wp-content/uploads/2022/10/BRAZO-ROBOTICO-V2.0-MEJORADO.jpg" alt="brazo robótico 5 GDL" caption="Hola"/>
-    <li> Servomotores SG90 o MG90</li>
-    <img src="https://cdn.shopify.com/s/files/1/0069/0028/5529/files/Servos_fb55bae1-aef3-4bd6-bf0f-f2eff21c849a_large.jpg?v=1565803072" alt="servomotores" caption="Hola"/>
-    <li> Fuentes de alimentación</li>
-    <img src="https://cdnx.jumpseller.com/mactornica/image/9804941/1.jpg?1653696069" alt="Fuente AMS1117" caption="Hola"/>
+    <li> UR sim</li>
+    <li> EPSON RC+</li>
+    <li> Robots UR</li>
+    <div align="center">
+        <img src="image.png" width="500" alt="Robots UR"/>
+        <br>
+        <figcaption>Fuente: https://www.logisticanews.it/robot-collaborativi-ur3-ur5-e-ur10-di-universal-robots/</figcaption>
+    </div>
+    <li> Robot SCARA (EPSON)</li>
+    <div align="center">
+        <img src="image-1.png" width="500" alt="Robots UR"/>
+        <br>
+        <figcaption>Fuente: https://epson.co.cr/Para-el-trabajo/Robótica/SCARA/Robot-Epson-SCARA-T3-B-Todo-en-Uno/p/RT3-B401SS</figcaption>
+    </div>
     <li> Multímetro</li>
     <div align="center">
         <img src="image-1.png" width="500" alt="Multímetro"/>
         <br>
         <figcaption>Fuente: https://radiomecano.com.ar/Instrumentos-de-Medicion/90-0223260_TESTER-UNI-T-UT-33C-DIGITAL-CTEMPERATURA.html</figcaption>
     </div>
-    <li> Leds, resistencias, pulsadores, cables, protoboard</li>
-    <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR9gkrJHsEK9MCYNnJTZklwsNtW58ZzmrtdPMma9dXKXkLdYbt1PkHeGMi5cwDLLlRiOng2ozwdsB60QtZNCQF4hc3WUnPT6rx9HmCUAt1KuATjyJY9bNNWRA&usqp=CAE" alt="kit de protoboard" caption="Hola"/>
-    <!--
-    <li> STM-32</li>
-    <img src="https://www.codeinsideout.com/blog/stm32/stm32-nucleo-boards.png" alt="Imagen de Raspberrys Pi 3B y 4B" caption="Hola"/>
-    <li> IMU (MPU6050 y MPU9250)</li>
-    <img src="https://memo.soarcloud.com/wp-content/uploads/2020/07/mpu6050-mpu9250.jpg" alt="Imagen de Raspberrys Pi 3B y 4B" caption="Hola"/>
-    -->
 </ul>
-
-<h3>Bibliografía</h3>
-
-- Peter Corke. Robotics, Vision and Control: Fundamental Algorithms in MATLAB. 1st. Springer Publishing Company, Incorporated, 2013.
-- John J. Craig. Introduction to Robotics: Mechanics and Control. 2nd. Boston, MA, USA: Addison-Wesley Longman Publishing Co., Inc., 1989.
-- Antonio Barrientos Cruz. Fundamentos de robótica. 2nd. McGraw-Hill, 2007.
-- Mark W. Spong. Robot Dynamics and Control. 1st. New York, NY, USA: John Wiley & Sons, Inc., 1989. Poole, H. H. (2012). Fundamentals of robotics engineering. Springer Science & Business Media.
-- Siciliano, B., Sciavicco, L., Villani, L., & Oriolo, G. (2010). Robotics: modelling, planning and control. Springer Science & - Business Media. Jazar, R. N. (2010). Theory of applied robotics: kinematics, dynamics, and control. Springer Science & Business Media.
-- Peter Corke. Robotics toolbox for Matlab, release 9.10. 1st. 2015.
-- Martinez, A., Fernandez E., Leaning ROS for robotics programming, PackT Publishing.
-- O’Kane J., A Gentle Introduction to ROS.
-- http://petercorke.com/Robotics_Toolbox.html
-- Kim, S., Laschi, C., & Trimmer, B. (2013). Soft robotics: a bioinspired evolution in robotics. Trends in biotechnology, 31(5), 287-294.
