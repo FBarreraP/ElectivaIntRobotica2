@@ -12,6 +12,22 @@ Los cobots de Universal Robots de la serie UR son de 6 GDL de morfología RRR, l
 <figcaption>Fuente: https://www.alibaba.com/product-detail/Small-Lift-Industrial-Robotic-Arm-UR5_1600210044673.html</figcaption>
 </div>
 
+<h3>Especificaciones técnicas</h3>
+
+<div align="center">
+<img src="image-8.png" alt="características técnicas"/>
+<br>
+<figcaption>Fuente: Manual de usuario UR</figcaption>
+</div>
+
+<h3>Funciones de seguridad</h3>
+
+<div align="center">
+<img src="image-9.png" alt="funciones de seguridad"/>
+<br>
+<figcaption>Fuente: Manual de usuario UR</figcaption>
+</div>
+
 <h3>Espacio de trabajo</h3>
 
 El espacio de trabajo de los robots UR5 y UR10, respectivamente son 850mm y 1300mm.
