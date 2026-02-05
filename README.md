@@ -213,7 +213,7 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
     </div>
     <li> Robot SCARA (EPSON)</li>
     <div align="center">
-        <img src="image-1.png" width="500" alt="Robots UR"/>
+        <img src="image-2.png" width="500" alt="Robots UR"/>
         <br>
         <figcaption>Fuente: https://epson.co.cr/Para-el-trabajo/Robótica/SCARA/Robot-Epson-SCARA-T3-B-Todo-en-Uno/p/RT3-B401SS</figcaption>
     </div>
