@@ -7,7 +7,7 @@ Esta clase consiste en presentar las principales característcas de los robots U
 Los cobots de Universal Robots de la serie UR son de 6 GDL de morfología RRR, los cuales son colaborativos y pueden ser implementados en procesos repetitivos de bajo peso, como recoger y colocar. Los UR5 y UR10 tienen un payload de 5kg y 10kg, respectivamente.
 
 <div align="center">
-<img src="image-6.png" alt="UR5"/>
+<img src="Imagenes/image-6.png" alt="UR5"/>
 <br>
 <figcaption>Fuente: https://www.alibaba.com/product-detail/Small-Lift-Industrial-Robotic-Arm-UR5_1600210044673.html</figcaption>
 </div>
@@ -17,7 +17,7 @@ Los cobots de Universal Robots de la serie UR son de 6 GDL de morfología RRR, l
 <h4>UR5</h4>
 
 <div align="center">
-<img src="image-8.png" alt="características técnicas UR5"/>
+<img src="Imagenes/image-8.png" alt="características técnicas UR5"/>
 <br>
 <figcaption>Fuente: Manual de usuario UR</figcaption>
 </div>
@@ -25,7 +25,7 @@ Los cobots de Universal Robots de la serie UR son de 6 GDL de morfología RRR, l
 <h4>UR10</h4>
 
 <div align="center">
-<img src="image-14.png" alt="características técnicas UR10"/>
+<img src="Imagenes/image-14.png" alt="características técnicas UR10"/>
 <br>
 <figcaption>Fuente: Manual de usuario UR</figcaption>
 </div>
@@ -35,7 +35,7 @@ Los cobots de Universal Robots de la serie UR son de 6 GDL de morfología RRR, l
 El espacio de trabajo de los robots UR5 y UR10, respectivamente son 850mm y 1300mm.
 
 <div align="center">
-<img src="image-4.png" alt="entradas"/>
+<img src="Imagenes/image-4.png" alt="entradas"/>
 <br>
 <figcaption>Fuente: Manual de usuario UR</figcaption>
 </div>
@@ -43,7 +43,7 @@ El espacio de trabajo de los robots UR5 y UR10, respectivamente son 850mm y 1300
 <h3>Partes del UR5 y UR10</h3>
 
 <div align="center">
-<img src="image-1.png" alt="Partes del UR5"/>
+<img src="Imagenes/image-1.png" alt="Partes del UR5"/>
 <br>
 <figcaption>Fuente: https://htlelec.com/universalrobots-ur5e/</figcaption>
 </div>
@@ -51,7 +51,7 @@ El espacio de trabajo de los robots UR5 y UR10, respectivamente son 850mm y 1300
 <h3>Caja de control</h3>
 
 <div align="center">
-<img src="image.png" alt="Controlador"/>
+<img src="Imagenes/image.png" alt="Controlador"/>
 <br>
 <figcaption>Fuente: Manual de servicio UR</figcaption>
 </div>
@@ -61,7 +61,7 @@ El espacio de trabajo de los robots UR5 y UR10, respectivamente son 850mm y 1300
 Las E/S se encuentran en el interior de la caja de control, las cuales pueden ser conectadas a reles neumáticos, PLC y pulsadores de parada de emergencia.
 
 <div align="center">
-<img src="image-7.png" alt="Controlador"/>
+<img src="Imagenes/image-7.png" alt="Controlador"/>
 <br>
 <figcaption>Fuente: Manual de servicio UR</figcaption>
 </div>
@@ -69,7 +69,7 @@ Las E/S se encuentran en el interior de la caja de control, las cuales pueden se
 <h5>Entrada digital</h5>
 
 <div align="center">
-<img src="image-11.png" alt="Entrada digital"/>
+<img src="Imagenes/image-11.png" alt="Entrada digital"/>
 <br>
 <figcaption>Fuente: Manual de servicio UR</figcaption>
 </div>
@@ -77,7 +77,7 @@ Las E/S se encuentran en el interior de la caja de control, las cuales pueden se
 <h5>Salida digital</h5>
 
 <div align="center">
-<img src="image-10.png" alt="Salida digital"/>
+<img src="Imagenes/image-10.png" alt="Salida digital"/>
 <br>
 <figcaption>Fuente: Manual de servicio UR</figcaption>
 </div>
@@ -89,7 +89,7 @@ Son utilizadas para establecer o medir el voltaje (0-10 V) o la corriente (4-20 
 <h5>Entrada analógica</h5>
 
 <div align="center">
-<img src="image-13.png" alt="Entrada analógica"/>
+<img src="Imagenes/image-13.png" alt="Entrada analógica"/>
 <br>
 <figcaption>Fuente: Manual de servicio UR</figcaption>
 </div>
@@ -97,7 +97,7 @@ Son utilizadas para establecer o medir el voltaje (0-10 V) o la corriente (4-20 
 <h5>Salida analógica</h5>
 
 <div align="center">
-<img src="image-12.png" alt="Salida analógica"/>
+<img src="Imagenes/image-12.png" alt="Salida analógica"/>
 <br>
 <figcaption>Fuente: Manual de servicio UR</figcaption>
 </div>
@@ -105,7 +105,7 @@ Son utilizadas para establecer o medir el voltaje (0-10 V) o la corriente (4-20 
 <h3>Teach pendant</h3>
 
 <div align="center">
-<img src="image-5.png" alt="Teach pendant"/>
+<img src="Imagenes/image-5.png" alt="Teach pendant"/>
 <br>
 <figcaption>Fuente: https://thinkbotsolutions.com/products/universal-robots-ur3</figcaption>
 </div>
@@ -156,7 +156,7 @@ En los robots colaborativos Universal Robots UR5 y UR10 de la serie CB3, las cat
 - La categoría 1 consiste en una parada controlada con eliminación de potencia tras detenerse, por lo cual, el robot se desacelera y se detiene de forma controlada usando potencia de accionamiento, y solo después de alcanzar el estado de parada completa se elimina la energía de los motores. Está pensada para paradas de emergencia tipo botón E-stop u otras señales de parada importantes donde la parada inmediata controlada es deseable (ej: botón de emergencia (Estop) desde el teach pendant o un dispositivo externo).
 
 <div align="center">
-<img src="image-9.png" alt="funciones de seguridad"/>
+<img src="Imagenes/image-9.png" alt="funciones de seguridad"/>
 <br>
 <figcaption>Fuente: Manual de usuario UR</figcaption>
 </div>
@@ -166,7 +166,7 @@ En los robots colaborativos Universal Robots UR5 y UR10 de la serie CB3, las cat
 <h4>Entradas</h4>
 
 <div align="center">
-<img src="image-3.png" alt="entradas"/>
+<img src="Imagenes/image-3.png" alt="entradas"/>
 <br>
 <figcaption>Fuente: Manual de usuario UR</figcaption>
 </div>
@@ -174,7 +174,7 @@ En los robots colaborativos Universal Robots UR5 y UR10 de la serie CB3, las cat
 <h4>Salidas</h4>
 
 <div align="center">
-<img src="image-2.png" alt="salidas"/>
+<img src="Imagenes/image-2.png" alt="salidas"/>
 <br>
 <figcaption>Fuente: Manual de usuario UR</figcaption>
 </div>
@@ -184,7 +184,7 @@ En los robots colaborativos Universal Robots UR5 y UR10 de la serie CB3, las cat
 Productividad: Los cobots gestionan tareas repetitivas y ergonómicamente exigentes con precisión y consistencia, hora tras hora, turno tras turno. Diseñados para diversos entornos de producción, reducen los tiempos de ciclo y minimizan el tiempo de inactividad, generando mejoras de productividad mensurables.
 
 <div align="center">
-<img src="image-18.png" alt="Productividad"/>
+<img src="Imagenes/image-18.png" alt="Productividad"/>
 <br>
 <figcaption>Fuente: https://www.universal-robots.com</figcaption>
 </div>
@@ -192,7 +192,7 @@ Productividad: Los cobots gestionan tareas repetitivas y ergonómicamente exigen
 Flexibilidad: Consiste en adaptar el cobot a nuevos procesos es rápido y sencillo, lo que le brinda la agilidad para automatizar prácticamente cualquier tarea manual, incluso aquellas con lotes pequeños o cambios rápidos. El cobot puede reutilizar programas para tareas recurrentes.
 
 <div align="center">
-<img src="image-19.png" alt="Flexibilidad"/>
+<img src="Imagenes/image-19.png" alt="Flexibilidad"/>
 <br>
 <figcaption>Fuente: https://www.universal-robots.com</figcaption>
 </div>
@@ -200,7 +200,7 @@ Flexibilidad: Consiste en adaptar el cobot a nuevos procesos es rápido y sencil
 Calidad: Los cobots de Universal Robots ofrecen una repetibilidad de hasta ±0,03 mm (30 micras), lo que garantiza la precisión y fiabilidad de cada movimiento. Este nivel de precisión reduce la variabilidad, minimiza los defectos y ayuda a mantener los más altos estándares de calidad del producto durante toda la producción.
 
 <div align="center">
-<img src="image-20.png" alt="Calidad"/>
+<img src="Imagenes/image-20.png" alt="Calidad"/>
 <br>
 <figcaption>Fuente: https://www.universal-robots.com</figcaption>
 </div>
@@ -210,7 +210,7 @@ Calidad: Los cobots de Universal Robots ofrecen una repetibilidad de hasta ±0,0
 Raumland GmbH es una empresa familiar que analiza, filtra, etiqueta, embotella y envía vinos para diversos productores. Con más de cinco millones de botellas y 2500 vinos diferentes procesados ​​anualmente, Raumland utiliza UR20 para paletizar cajas de vino al final de la línea de embotellado.
 
 <div align="center">
-<img src="image-15.png" alt="Raumland GmbH"/>
+<img src="Imagenes/image-15.png" alt="Raumland GmbH"/>
 <br>
 <figcaption>Fuente: https://www.universal-robots.com/products/ur-series/</figcaption>
 </div>
@@ -218,7 +218,7 @@ Raumland GmbH es una empresa familiar que analiza, filtra, etiqueta, embotella y
 El histórico fabricante de cereales (Bob’s Red Mill) integrales buscó durante muchos años utilizar robots colaborativos para tareas de paletizado, pero no había encontrado una solución que cumpliera los requisitos de velocidad, carga útil o alcance hasta el lanzamiento del UR20.
 
 <div align="center">
-<img src="image-16.png" alt="Bob’s Red Mill"/>
+<img src="Imagenes/image-16.png" alt="Bob’s Red Mill"/>
 <br>
 <figcaption>Fuente: https://www.universal-robots.com/products/ur-series/</figcaption>
 </div>
@@ -226,7 +226,7 @@ El histórico fabricante de cereales (Bob’s Red Mill) integrales buscó durant
 Raise Robotics utiliza dos potentes brazos UR20 de Universal Robots como plataforma para innovadores robots de construcción in sitio. El sistema Raise se encarga de tareas repetitivas y peligrosas, como la instalación de fijaciones para paneles de vidrio en fachadas de edificios de gran altura.
 
 <div align="center">
-<img src="image-17.png" alt="Raise Robotics"/>
+<img src="Imagenes/image-17.png" alt="Raise Robotics"/>
 <br>
 <figcaption>Fuente: https://www.universal-robots.com/products/ur-series/</figcaption>
 </div>
