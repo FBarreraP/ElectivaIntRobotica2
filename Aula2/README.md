@@ -82,6 +82,42 @@ Las E/S se encuentran en el interior de la caja de control, las cuales pueden se
 <figcaption>Fuente: Manual de servicio UR</figcaption>
 </div>
 
+<h5>Entrada digital</h5>
+
+<div align="center">
+<img src="image-11.png" alt="Entrada digital"/>
+<br>
+<figcaption>Fuente: Manual de servicio UR</figcaption>
+</div>
+
+<h5>Salida digital</h5>
+
+<div align="center">
+<img src="image-10.png" alt="Salida digital"/>
+<br>
+<figcaption>Fuente: Manual de servicio UR</figcaption>
+</div>
+
+<h5>E/S analógicas</h5>
+
+Son utilizadas para establecer o medir el voltaje (0-10 V) o la corriente (4-20 mA).
+
+<h5>Entrada analógica</h5>
+
+<div align="center">
+<img src="image-13.png" alt="Entrada analógica"/>
+<br>
+<figcaption>Fuente: Manual de servicio UR</figcaption>
+</div>
+
+<h5>Salida analógica</h5>
+
+<div align="center">
+<img src="image-12.png" alt="Salida analógica"/>
+<br>
+<figcaption>Fuente: Manual de servicio UR</figcaption>
+</div>
+
 <h3>Teach pendant</h3>
 
 <div align="center">
@@ -90,11 +126,7 @@ Las E/S se encuentran en el interior de la caja de control, las cuales pueden se
 <figcaption>Fuente: https://thinkbotsolutions.com/products/universal-robots-ur3</figcaption>
 </div>
 
-
-
-<h3>Características</h3>
-
-
+<h3>Ventajas</h3>
 
 <div align="center">
 <img src="image-.png" alt="IMU"/>
@@ -113,9 +145,6 @@ Las E/S se encuentran en el interior de la caja de control, las cuales pueden se
 <br>
 <figcaption>Fuente: https://www.universal-robots.com</figcaption>
 </div>
-
-
-
 
 <h3>Comandos</h3>
 
