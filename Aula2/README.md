@@ -205,7 +205,7 @@ Calidad: Los cobots de Universal Robots ofrecen una repetibilidad de hasta ±0,0
 <figcaption>Fuente: https://www.universal-robots.com</figcaption>
 </div>
 
-<h3>Aplicaciones</h3>
+<h3>Casos de estudio</h3>
 
 Raumland GmbH es una empresa familiar que analiza, filtra, etiqueta, embotella y envía vinos para diversos productores. Con más de cinco millones de botellas y 2500 vinos diferentes procesados ​​anualmente, Raumland utiliza UR20 para paletizar cajas de vino al final de la línea de embotellado.
 
