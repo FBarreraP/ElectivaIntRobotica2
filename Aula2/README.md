@@ -198,3 +198,29 @@ En los robots colaborativos Universal Robots UR5 y UR10 de la serie CB3, las cat
 <br>
 <figcaption>Fuente: https://www.universal-robots.com</figcaption>
 </div>
+
+<h3>Aplicaciones</h3>
+
+Raumland GmbH es una empresa familiar que analiza, filtra, etiqueta, embotella y envía vinos para diversos productores. Con más de cinco millones de botellas y 2500 vinos diferentes procesados ​​anualmente, Raumland utiliza UR20 para paletizar cajas de vino al final de la línea de embotellado.
+
+<div align="center">
+<img src="image-15.png" alt="Raumland GmbH"/>
+<br>
+<figcaption>Fuente: https://www.universal-robots.com/products/ur-series/</figcaption>
+</div>
+
+El histórico fabricante de cereales (Bob’s Red Mill) integrales buscó durante muchos años utilizar robots colaborativos para tareas de paletizado, pero no había encontrado una solución que cumpliera los requisitos de velocidad, carga útil o alcance hasta el lanzamiento del UR20.
+
+<div align="center">
+<img src="image-16.png" alt="Bob’s Red Mill"/>
+<br>
+<figcaption>Fuente: https://www.universal-robots.com/products/ur-series/</figcaption>
+</div>
+
+Raise Robotics utiliza dos potentes brazos UR20 de Universal Robots como plataforma para innovadores robots de construcción in sitio. El sistema Raise se encarga de tareas repetitivas y peligrosas, como la instalación de fijaciones para paneles de vidrio en fachadas de edificios de gran altura.
+
+<div align="center">
+<img src="image-17.png" alt="Raise Robotics"/>
+<br>
+<figcaption>Fuente: https://www.universal-robots.com/products/ur-series/</figcaption>
+</div>
