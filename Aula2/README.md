@@ -145,17 +145,3 @@ Son utilizadas para establecer o medir el voltaje (0-10 V) o la corriente (4-20 
 <br>
 <figcaption>Fuente: https://www.universal-robots.com</figcaption>
 </div>
-
-<h3>Comandos</h3>
-
-
-
-
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
