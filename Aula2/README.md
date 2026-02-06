@@ -181,20 +181,26 @@ En los robots colaborativos Universal Robots UR5 y UR10 de la serie CB3, las cat
 
 <h3>Ventajas</h3>
 
+Productividad: Los cobots gestionan tareas repetitivas y ergonómicamente exigentes con precisión y consistencia, hora tras hora, turno tras turno. Diseñados para diversos entornos de producción, reducen los tiempos de ciclo y minimizan el tiempo de inactividad, generando mejoras de productividad mensurables.
+
 <div align="center">
-<img src="image-.png" alt="IMU"/>
+<img src="image-18.png" alt="Productividad"/>
 <br>
 <figcaption>Fuente: https://www.universal-robots.com</figcaption>
 </div>
 
+Flexibilidad: Consiste en adaptar el cobot a nuevos procesos es rápido y sencillo, lo que le brinda la agilidad para automatizar prácticamente cualquier tarea manual, incluso aquellas con lotes pequeños o cambios rápidos. El cobot puede reutilizar programas para tareas recurrentes.
+
 <div align="center">
-<img src="image-.png" alt="IMU"/>
+<img src="image-19.png" alt="Flexibilidad"/>
 <br>
 <figcaption>Fuente: https://www.universal-robots.com</figcaption>
 </div>
 
+Calidad: Los cobots de Universal Robots ofrecen una repetibilidad de hasta ±0,03 mm (30 micras), lo que garantiza la precisión y fiabilidad de cada movimiento. Este nivel de precisión reduce la variabilidad, minimiza los defectos y ayuda a mantener los más altos estándares de calidad del producto durante toda la producción.
+
 <div align="center">
-<img src="image-.png" alt="IMU"/>
+<img src="image-20.png" alt="Calidad"/>
 <br>
 <figcaption>Fuente: https://www.universal-robots.com</figcaption>
 </div>
