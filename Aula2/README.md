@@ -14,16 +14,18 @@ Los cobots de Universal Robots de la serie UR son de 6 GDL de morfología RRR, l
 
 <h3>Especificaciones técnicas</h3>
 
+<h4>UR5</h4>
+
 <div align="center">
-<img src="image-8.png" alt="características técnicas"/>
+<img src="image-8.png" alt="características técnicas UR5"/>
 <br>
 <figcaption>Fuente: Manual de usuario UR</figcaption>
 </div>
 
-<h3>Funciones de seguridad</h3>
+<h4>UR10</h4>
 
 <div align="center">
-<img src="image-9.png" alt="funciones de seguridad"/>
+<img src="image-14.png" alt="características técnicas UR10"/>
 <br>
 <figcaption>Fuente: Manual de usuario UR</figcaption>
 </div>
@@ -34,24 +36,6 @@ El espacio de trabajo de los robots UR5 y UR10, respectivamente son 850mm y 1300
 
 <div align="center">
 <img src="image-4.png" alt="entradas"/>
-<br>
-<figcaption>Fuente: Manual de usuario UR</figcaption>
-</div>
-
-<h3>Características de seguridad</h3>
-
-<h4>Entradas</h4>
-
-<div align="center">
-<img src="image-3.png" alt="entradas"/>
-<br>
-<figcaption>Fuente: Manual de usuario UR</figcaption>
-</div>
-
-<h4>Salidas</h4>
-
-<div align="center">
-<img src="image-2.png" alt="salidas"/>
 <br>
 <figcaption>Fuente: Manual de usuario UR</figcaption>
 </div>
@@ -124,6 +108,38 @@ Son utilizadas para establecer o medir el voltaje (0-10 V) o la corriente (4-20 
 <img src="image-5.png" alt="Teach pendant"/>
 <br>
 <figcaption>Fuente: https://thinkbotsolutions.com/products/universal-robots-ur3</figcaption>
+</div>
+
+<h3>Funciones de seguridad</h3>
+
+En los robots colaborativos Universal Robots UR5 y UR10 de la serie CB3, las categorías 0 y 1 se refieren a tipos de parada de seguridad definidos por estándares internacionales de seguridad de maquinaria (IEC 60204-1 / normas de seguridad industrial) y describen cómo el robot detiene el movimiento cuando hay un evento de seguridad.
+
+- La categoría 0 consiste en una parada no controlada con eliminación inmediata de potencia, por lo cual, el robot deja de recibir energía de los accionamientos de inmediato. Se usa cuando se supera un límite de seguridad crítico o hay un fallo grave en el sistema de seguridad (ej: violaciones de límites de velocidad, posición, fuerza o zonas de seguridad internas, o fallos en la lógica de seguridad ).
+
+- La categoría 1 consiste en una parada controlada con eliminación de potencia tras detenerse, por lo cual, el robot se desacelera y se detiene de forma controlada usando potencia de accionamiento, y solo después de alcanzar el estado de parada completa se elimina la energía de los motores. Está pensada para paradas de emergencia tipo botón E-stop u otras señales de parada importantes donde la parada inmediata controlada es deseable (ej: botón de emergencia (Estop) desde el teach pendant o un dispositivo externo).
+
+<div align="center">
+<img src="image-9.png" alt="funciones de seguridad"/>
+<br>
+<figcaption>Fuente: Manual de usuario UR</figcaption>
+</div>
+
+<h3>E/S de seguridad</h3>
+
+<h4>Entradas</h4>
+
+<div align="center">
+<img src="image-3.png" alt="entradas"/>
+<br>
+<figcaption>Fuente: Manual de usuario UR</figcaption>
+</div>
+
+<h4>Salidas</h4>
+
+<div align="center">
+<img src="image-2.png" alt="salidas"/>
+<br>
+<figcaption>Fuente: Manual de usuario UR</figcaption>
 </div>
 
 <h3>Ventajas</h3>
