@@ -230,3 +230,29 @@ Raise Robotics utiliza dos potentes brazos UR20 de Universal Robots como platafo
 <br>
 <figcaption>Fuente: https://www.universal-robots.com/products/ur-series/</figcaption>
 </div>
+
+<h3>Universal Robots</h3>
+
+Universal Robots ha implementado más de 100.000 cobots en todas las industrias manufactureras. Empresas de todos los tamaños, desde gigantes de la lista Fortune 500 hasta talleres mecánicos locales, están aprovechando nuestros cobots de sexta generación para aumentar la productividad y la calidad, y mejorar la satisfacción laboral de sus equipos de fabricación.
+
+<div align="center">
+<img src="Imagenes/image-21.png" alt=""/>
+<br>
+<figcaption>Fuente: https://www.universal-robots.com/industries/education-science/</figcaption>
+</div>
+
+Los cobots de UR satisfacen plenamente las demandas de flexibilidad con una facilidad de uso líder en la industria, una programación intuitiva y un potente backend que permite a fabricantes de equipos originales (OEM) y desarrolladores añadir valor y satisfacer necesidades específicas. Los sistemas basados ​​en cobots de UR generan un retorno de la inversión (ROI) que generalmente se mide en meses, no en años.
+
+<div align="center">
+<img src="Imagenes/image-22.png" alt=""/>
+<br>
+<figcaption>Fuente: https://www.universal-robots.com/industries/education-science/</figcaption>
+</div>
+
+Universal Robots ha desarrollado el conjunto de herramientas y funciones de seguridad más completo de la industria. Nuestros protocolos de seguridad se pueden configurar para satisfacer los diversos requisitos de seguridad de su planta o instalaciones y la evaluación de riesgos de su aplicación, lo que permite a su equipo de fabricación trabajar de forma segura en colaboración con los cobots de UR.
+
+<div align="center">
+<img src="Imagenes/image-23.png" alt=""/>
+<br>
+<figcaption>Fuente: https://www.universal-robots.com/industries/education-science/</figcaption>
+</div>
