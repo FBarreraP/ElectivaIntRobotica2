@@ -110,6 +110,43 @@ Son utilizadas para establecer o medir el voltaje (0-10 V) o la corriente (4-20 
 <figcaption>Fuente: https://thinkbotsolutions.com/products/universal-robots-ur3</figcaption>
 </div>
 
+<h3>Modos de operación</h3>
+
+1. Modo Freedrive: Se usa en la enseñanza de trayectorias, para posicionar el robot rápidamente y para ajustar las poses del robot.
+
+- Modo para mover el robot a mano, donde los motores quedan en un estado de baja resistencia (frenos desactivados) y el operador puede guiar el brazo manualmente.
+- Se activa pulsando el botón Freedrive en el teach pendant o mediante un botón externo configurado.
+
+2. Modo manual: Se usa para crear y editar programas, enseñar puntos y trayectorias, y pruebas paso a paso.
+
+- Modo de enseñanza y programación, en el cual, el robot no ejecuta programas automáticamente. El Movimiento eje por eje o cartesiano desde el Teach pendant y con velocidad limitada por seguridad.
+
+3. Modo automático: Se usa en la producción normal y sistemas integrados con PLC o control externo.
+
+- El robot ejecuta el programa previamente configurado de manera completa, sin intervención y no se permite movimiento manual directo.
+
+<h3>Modos de seguridad</h3>
+
+1. Modo Normal: Se usa en ciclos automáticos, con operación continua sin intervención directa del operador.
+
+- El robot ejecuta el programa automáticamente.
+- Se aplican los límites normales de seguridad (velocidad, fuerza, potencia, etc.).
+- Es el modo típico en producción.
+
+2. Modo reducido: Se usa para trabajos colaborativos humano–robot y para inspección o supervisión cercana sin detener completamente el robot.
+
+- El robot reduce automáticamente la velocidad, aceleración, fuerza y potencia, los cuales se configuran en Safety/Reduced Mode en el PolyScope.
+- Se activa mediante una entrada de seguridad (por ejemplo, una cortina de seguridad, escáner láser o puerta), al entrar una persona en una zona cercana al robot.
+
+3. Modo de parada de seguridad: Se usa de manera controlada o no controlada para detener el robot.
+
+- Emergency Stop (Estop): botón de emergencia.
+- Protective Stop: por colisión, exceso de fuerza o límites.
+- Safeguard Stop: señal externa de seguridad.
+
+> [!IMPORTANT]  
+> El robot se detiene (Cat. 0 o Cat. 1, según el caso). Requiere reconocimiento del operador para continuar.
+
 <h3>Funciones de seguridad</h3>
 
 En los robots colaborativos Universal Robots UR5 y UR10 de la serie CB3, las categorías 0 y 1 se refieren a tipos de parada de seguridad definidos por estándares internacionales de seguridad de maquinaria (IEC 60204-1 / normas de seguridad industrial) y describen cómo el robot detiene el movimiento cuando hay un evento de seguridad.
