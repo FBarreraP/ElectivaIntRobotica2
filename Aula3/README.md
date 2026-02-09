@@ -7,7 +7,7 @@ Esta clase consiste en realizar el curso de formación en línea de CB3 para los
 El curso de los robots CB3 se encuentra <a href="https://academy.universal-robots.com/es/formacion-en-linea-gratuita/">aquí</a>
 
 <div align="center">
-<img src="CursoCB3 alt="Curso CB3"/>
+<img src="CursoCB3.png" alt="Curso CB3"/>
 <br>
 <figcaption>Fuente: https://academy.universal-robots.com/es/formacion-en-linea-gratuita/</figcaption>
 </div>
