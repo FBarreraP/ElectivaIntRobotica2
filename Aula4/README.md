@@ -16,6 +16,10 @@ El link para descargar virtualbox se encuentra <a href="https://www.virtualbox.o
 <figcaption>Fuente: https://academy.universal-robots.com/es/formacion-en-linea-gratuita/</figcaption>
 </div>
 
+<h3>Comandos</h3>
+
+
+
 <h3>Ejemplo</h3>
 
 <div align="center">
