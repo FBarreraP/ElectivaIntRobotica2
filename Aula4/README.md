@@ -7,7 +7,7 @@ Esta clase consiste en aprender a utilizar el simulador para los robots UR5 y UR
 El sistema operativo para el simulador de UR está basado en Ubuntu, por tanto, se debe instalar una máquina virtual (ej: wmware, virtualbox, etc.). El link para descargar virtualbox se encuentra <a href="https://www.virtualbox.org/wiki/Downloads">aquí</a>. El link para descargar UR Sim se encuentra <a href="https://www.universal-robots.com/download/software-cb-series/simulator-non-linux/offline-simulator-cb-series-non-linux-ursim-3158/">aquí</a>
 
 <div align="center">
-<img src="image.png" alt="UR Sim"/>
+<img src="Imagenes/image.png" alt="UR Sim"/>
 <br>
 <figcaption>Fuente: https://academy.universal-robots.com/es/formacion-en-linea-gratuita/</figcaption>
 </div>
@@ -16,56 +16,56 @@ El sistema operativo para el simulador de UR está basado en Ubuntu, por tanto, 
 
 Mover
 
-![alt text](image-1.png)
+![alt text](Imagenes/image-1.png)
 
 Punto de paso
 
-![alt text](image-2.png)
+![alt text](Imagenes/image-2.png)
 
 Esperar
 
-![alt text](image-3.png)
+![alt text](Imagenes/image-3.png)
 
 Ajustar
 
-![alt text](image-4.png)
+![alt text](Imagenes/image-4.png)
 
 Aviso
 
-![alt text](image-5.png)
+![alt text](Imagenes/image-5.png)
 
 Detener
 
-![alt text](image-6.png)
+![alt text](Imagenes/image-6.png)
 
 Comentario
 
-![alt text](image-7.png)
+![alt text](Imagenes/image-7.png)
 
 Bucle
 
-![alt text](image-8.png)
+![alt text](Imagenes/image-8.png)
 
 Asignación
 
-![alt text](image-9.png)
+![alt text](Imagenes/image-9.png)
 
 If
 
-![alt text](image-10.png)
+![alt text](Imagenes/image-10.png)
 
 Evento
 
-![alt text](image-11.png)
+![alt text](Imagenes/image-11.png)
 
 Temporizador
 
-![alt text](image-12.png)
+![alt text](Imagenes/image-12.png)
 
 <h3>Ejemplo</h3>
 
 <div align="center">
-<img src="URSim_Cuadrado.png" alt="Ejemplo UR Sim"/>
+<img src="Imagenes/URSim_Cuadrado.png" alt="Ejemplo UR Sim"/>
 <br>
 <figcaption>Fuente: Autor</figcaption>
 </div>
