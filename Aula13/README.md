@@ -4,9 +4,11 @@ Esta clase consiste en simular el robot SCARA T3 EPSON en el software EPSON RC+ 
 
 <h2>EPSON RC+ 7</h2>
 
-El software EPSON RC+ 7 permite simular el robot SCARA T3-401S, utilizando la ventana del robot manager y de comandos en lenguaje SPEL+.
+El software EPSON RC+ 7 permite simular el robot SCARA T3-401S, utilizando la ventana del robot manager y de comandos en lenguaje SPEL+. Es un entorno integrado con el controlador de visión por cámara.
 
 <h3>Comandos SPEL+</h3>
+
+SPEL+ de Epson es un lenguaje de programación para aplicaciones de automatización de robots. Con más de 500 comandos y declaraciones, que incluyen funciones de movimiento, control de E/S, variables y tipos de datos, control de programas, etc.
 
 reset %Resetea el robot
 ?Motor %Pregunta el estado del robot
