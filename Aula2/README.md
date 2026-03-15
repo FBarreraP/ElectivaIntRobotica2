@@ -1,6 +1,6 @@
 <h1>Aula 2</h1>
 
-Esta clase consiste en presentar las principales característcas de los robots UR5 y UR10.
+Esta clase consiste en presentar las principales características de los robots UR5 y UR10.
 
 <h2>Robots UR</h2>
 
