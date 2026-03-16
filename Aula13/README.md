@@ -38,15 +38,35 @@ Jump JA(90,90,0,0,0,0)
 ```
 
 ```SPEL+
+Function main 
+	Go P1 
+	Go P2 
+	Go P0 
+Fend 
+```
+
+```SPEL+
+Function main 
+	Print "This is my first program." 
+	Power High 
+	Speed 20 
+	Accel 20, 20 
+	Go P1 
+	Go P2 
+	Go P0 
+Fend 
+```
+
+```SPEL+
 Function main
 	Motor On
-	Jump Bajada1
+	Jump P1
 	On 4
-	Jump Bajada2
+	Jump P2
 	Off 4
 	Wait 1
 	On 4
-	Jump Bajada3
+	Jump P3
 	Off 4
 	Motor Off
 Fend
