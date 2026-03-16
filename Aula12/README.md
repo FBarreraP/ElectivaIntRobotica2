@@ -101,21 +101,21 @@ El robot SCARA T3 de EPSON trae el controlador (401S) incorporado, además, es d
 <figcaption>Fuente: Manual del manipulador Serie T</figcaption>
 </div>
 
+<h3>Entradas</h3>
+
 <div align="center">
 <img src="Imagenes/image-16.png" alt="T3-401S"/>
 <br>
 <figcaption>Fuente: Manual del manipulador Serie T</figcaption>
 </div>
 
+<h3>Salidas</h3>
+
 <div align="center">
 <img src="Imagenes/image-17.png" alt="T3-401S"/>
 <br>
 <figcaption>Fuente: Manual del manipulador Serie T</figcaption>
 </div>
-
-<h3>Funciones de seguridad</h3>
-
-
 
 <h3>Ventajas</h3>
 
@@ -124,16 +124,3 @@ El robot SCARA T3 de EPSON trae el controlador (401S) incorporado, además, es d
 <br>
 <figcaption>Fuente: Epson T-Series SCARA Robot Brochure</figcaption>
 </div>
-
-<h3>Casos de estudio</h3>
-
-
-
-
-
-
-
-
-
-
-
