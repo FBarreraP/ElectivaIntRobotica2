@@ -28,12 +28,6 @@ El robot SCARA T3 de EPSON trae el controlador (401S) incorporado, además, es d
 </div>
 
 <div align="center">
-<img src="image-8.png" alt="Especificaciones T3-401S"/>
-<br>
-<figcaption>Fuente: Sistema de robot, seguridad e instalación</figcaption>
-</div>
-
-<div align="center">
 <img src="image-9.png" alt="Especificaciones T3-401S"/>
 <br>
 <figcaption>Fuente: Sistema de robot, seguridad e instalación</figcaption>
@@ -41,6 +35,17 @@ El robot SCARA T3 de EPSON trae el controlador (401S) incorporado, además, es d
 
 <h3>Espacio de trabajo</h3>
 
+<div align="center">
+<img src="image-11.png" alt="T3-401S"/>
+<br>
+<figcaption>Fuente: Manual del manipulador Serie T</figcaption>
+</div>
+
+<div align="center">
+<img src="image-12.png" alt="T3-401S"/>
+<br>
+<figcaption>Fuente: Manual del manipulador Serie T</figcaption>
+</div>
 
 <h3>Partes del SCARA T3 EPSON</h3>
 
@@ -57,10 +62,23 @@ El robot SCARA T3 de EPSON trae el controlador (401S) incorporado, además, es d
 </div>
 
 <div align="center">
+<img src="image-13.png" alt="T3-401S"/>
+<br>
+<figcaption>Fuente: Manual del manipulador Serie T</figcaption>
+</div>
+
+<div align="center">
+<img src="image-14.png" alt="T3-401S"/>
+<br>
+<figcaption>Fuente: Manual del manipulador Serie T</figcaption>
+</div>
+
+<div align="center">
 <img src="image-5.png" alt="Especificaciones T3-401S"/>
 <br>
 <figcaption>Fuente: Guía de instalación Serie T Robot SCARA</figcaption>
 </div>
+
 
 <h3>Controlador</h3>
 
@@ -78,7 +96,11 @@ El robot SCARA T3 de EPSON trae el controlador (401S) incorporado, además, es d
 
 <h4>E/S</h4>
 
-
+<div align="center">
+<img src="image-8.png" alt="T3-401S"/>
+<br>
+<figcaption>Fuente: Manual del manipulador Serie T</figcaption>
+</div>
 
 <h3>Funciones de seguridad</h3>
 
