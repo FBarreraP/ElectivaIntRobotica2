@@ -8,13 +8,13 @@ El robot SCARA T3 de EPSON trae el controlador (401S) incorporado, además, es d
 
 
 <div align="center">
-<img src="image-10.png" alt="T3-401S"/>
+<img src="Imagenes/image-10.png" alt="T3-401S"/>
 <br>
 <figcaption>Fuente: Manual del manipulador Serie T</figcaption>
 </div>
 
 <div align="center">
-<img src="image.png" alt="T3-401S"/>
+<img src="Imagenes/image.png" alt="T3-401S"/>
 <br>
 <figcaption>Fuente: Epson T-Series SCARA Robot Brochure</figcaption>
 </div>
@@ -22,13 +22,13 @@ El robot SCARA T3 de EPSON trae el controlador (401S) incorporado, además, es d
 <h3>Especificaciones técnicas</h3>
 
 <div align="center">
-<img src="image-1.png" alt="Especificaciones T3-401S"/>
+<img src="Imagenes/image-1.png" alt="Especificaciones T3-401S"/>
 <br>
 <figcaption>Fuente: Epson T-Series SCARA Robot Brochure</figcaption>
 </div>
 
 <div align="center">
-<img src="image-9.png" alt="Especificaciones T3-401S"/>
+<img src="Imagenes/image-9.png" alt="Especificaciones T3-401S"/>
 <br>
 <figcaption>Fuente: Sistema de robot, seguridad e instalación</figcaption>
 </div>
@@ -36,13 +36,13 @@ El robot SCARA T3 de EPSON trae el controlador (401S) incorporado, además, es d
 <h3>Espacio de trabajo</h3>
 
 <div align="center">
-<img src="image-11.png" alt="T3-401S"/>
+<img src="Imagenes/image-11.png" alt="T3-401S"/>
 <br>
 <figcaption>Fuente: Manual del manipulador Serie T</figcaption>
 </div>
 
 <div align="center">
-<img src="image-12.png" alt="T3-401S"/>
+<img src="Imagenes/image-12.png" alt="T3-401S"/>
 <br>
 <figcaption>Fuente: Manual del manipulador Serie T</figcaption>
 </div>
@@ -50,48 +50,45 @@ El robot SCARA T3 de EPSON trae el controlador (401S) incorporado, además, es d
 <h3>Partes del SCARA T3 EPSON</h3>
 
 <div align="center">
-<img src="image-6.png" alt="Especificaciones T3-401S"/>
+<img src="Imagenes/image-6.png" alt="Especificaciones T3-401S"/>
 <br>
 <figcaption>Fuente: Sistema de robot, seguridad e instalación</figcaption>
 </div>
 
 <div align="center">
-<img src="image-7.png" alt="Especificaciones T3-401S"/>
+<img src="Imagenes/image-7.png" alt="Especificaciones T3-401S"/>
 <br>
 <figcaption>Fuente: Sistema de robot, seguridad e instalación</figcaption>
 </div>
 
 <div align="center">
-<img src="image-13.png" alt="T3-401S"/>
+<img src="Imagenes/image-13.png" alt="T3-401S"/>
 <br>
 <figcaption>Fuente: Manual del manipulador Serie T</figcaption>
 </div>
 
 <div align="center">
-<img src="image-5.png" alt="Especificaciones T3-401S"/>
+<img src="Imagenes/image-5.png" alt="Especificaciones T3-401S"/>
 <br>
 <figcaption>Fuente: Guía de instalación Serie T Robot SCARA</figcaption>
 </div>
 
 <div align="center">
-<img src="image-14.png" alt="T3-401S"/>
+<img src="Imagenes/image-14.png" alt="T3-401S"/>
 <br>
 <figcaption>Fuente: Manual del manipulador Serie T</figcaption>
 </div>
 
-
-
-
 <h3>Controlador</h3>
 
 <div align="center">
-<img src="image-2.png" alt="Especificaciones T3-401S"/>
+<img src="Imagenes/image-2.png" alt="Especificaciones T3-401S"/>
 <br>
 <figcaption>Fuente: Epson T-Series SCARA Robot Brochure</figcaption>
 </div>
 
 <div align="center">
-<img src="image-3.png" alt="Especificaciones T3-401S"/>
+<img src="Imagenes/image-3.png" alt="Especificaciones T3-401S"/>
 <br>
 <figcaption>Fuente: Epson T-Series SCARA Robot Brochure</figcaption>
 </div>
@@ -99,7 +96,19 @@ El robot SCARA T3 de EPSON trae el controlador (401S) incorporado, además, es d
 <h4>E/S</h4>
 
 <div align="center">
-<img src="image-15.png" alt="T3-401S"/>
+<img src="Imagenes/image-15.png" alt="T3-401S"/>
+<br>
+<figcaption>Fuente: Manual del manipulador Serie T</figcaption>
+</div>
+
+<div align="center">
+<img src="Imagenes/image-16.png" alt="T3-401S"/>
+<br>
+<figcaption>Fuente: Manual del manipulador Serie T</figcaption>
+</div>
+
+<div align="center">
+<img src="Imagenes/image-17.png" alt="T3-401S"/>
 <br>
 <figcaption>Fuente: Manual del manipulador Serie T</figcaption>
 </div>
@@ -111,7 +120,7 @@ El robot SCARA T3 de EPSON trae el controlador (401S) incorporado, además, es d
 <h3>Ventajas</h3>
 
 <div align="center">
-<img src="image-4.png" alt="Especificaciones T3-401S"/>
+<img src="Imagenes/image-4.png" alt="Especificaciones T3-401S"/>
 <br>
 <figcaption>Fuente: Epson T-Series SCARA Robot Brochure</figcaption>
 </div>
