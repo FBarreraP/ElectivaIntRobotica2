@@ -14,7 +14,7 @@ Para simular el robot T3-401S se debe crear un controlador virtual en el softwar
 4.
 5.
 
-<h3>Comandos SPEL+</h3>
+<h3>Lenguaje SPEL+</h3>
 
 SPEL+ es un lenguaje de programación de Epson para aplicaciones de automatización de robots. Con más de 500 comandos y declaraciones, que incluyen funciones de movimiento, control de E/S, variables y tipos de datos, control de programas, etc.
 
@@ -44,7 +44,7 @@ Cuando arranca RC+ y aparece el panel Jog & Teach, la velocidad está definida e
 <figcaption>Fuente: Manual del usuario</figcaption>
 </div>
 
-<h4>Command Window</h4>
+<h4>Comandos</h4>
 
 <div align="center">
 <img src="image-3.png" alt="Comandos"/>
@@ -63,9 +63,6 @@ go here :z(-50)
 Pulse 0,0,0,0 %Coloca las articulaciones en la posición de calibración de fábrica (0 grados y 0 mm)
 
 Power High/Low %Low es el 20% de la potencia del robot
-
-<h4>Ventada de programación</h4>
-
 
 <h3>Ejemplo 1</h3>
 
