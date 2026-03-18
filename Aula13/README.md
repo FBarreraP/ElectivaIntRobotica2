@@ -55,8 +55,6 @@ Cuando arranca RC+ y aparece el panel Jog & Teach, la velocidad está definida e
 motor On/Off %Encender/Apagar robot
 on/off 4 %Encender/Apagar la salida digital No. 4
 ?sw(8) %Pregunta el estado de la entrada digital No. 8
-SFree %Libera las articulaciones
-SLock %Bloquea las articulaciones
 print erroron %Imprime el estado de error del robot
 JTran 1,90 %Mueve la articulación 1, 90 grados
 SavePoints "robot1.pts"
