@@ -8,11 +8,12 @@ El software EPSON RC+ 7 permite simular el robot SCARA T3-401S, utilizando la ve
 
 Para simular el robot T3-401S se debe crear un controlador virtual en el software EPSON RC+ 7, para esto se deben seguir los siguiente pasos:
 
-1.
-2. En la opción 
-3.
-4.
-5.
+1. Abrir la opción <i>PC to Controller Communications</i> en la pestaña <i>setup</i>
+2. Agregar una nueva conexión a un nuevo controlador virtual y modificar el nombre del controlador virtual
+3. Seleccionar la conexión anteriormente creada
+4. Abrir la opción <i>System Configuration</i> en la pestaña <i>setup</i> y agregar un nuevo robot (ej: T3-401S) en la sección <i>Robots</i>
+
+Posteriormente, se debe crear un proyecto para simular y programar el robot. 
 
 <h3>Lenguaje SPEL+</h3>
 
