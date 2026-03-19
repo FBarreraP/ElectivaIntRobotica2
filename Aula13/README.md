@@ -53,19 +53,27 @@ Cuando arranca RC+ y aparece el panel Jog & Teach, la velocidad está definida e
 <figcaption>Fuente: Manual del usuario</figcaption>
 </div>
 
-motor On/Off %Encender/Apagar robot
-on/off 4 %Encender/Apagar la salida digital No. 4
-?sw(8) %Pregunta el estado de la entrada digital No. 8
-print erroron %Imprime el estado de error del robot
-JTran 1,90 %Mueve la articulación 1, 90 grados
-SavePoints "robot1.pts"
-here p1 %Guarda la coordenadas actuales X, Y y Z en el P1
-go here :z(-50)
-Pulse 0,0,0,0 %Coloca las articulaciones en la posición de calibración de fábrica (0 grados y 0 mm)
-
-Power High/Low %Low es el 20% de la potencia del robot
+> [!NOTE]  
+> La sintaxis, los parámetros y la descripción de cada uno de los comandos (instrucciones y funciones) descritos anteriormente se encuentran en el manual del lenguaje EPSON RC+ 7.0
 
 <h3>Ejemplo 1</h3>
+
+Identificar y describir los siguientes comandos:
+
+```
+motor On/Off
+on/off 4
+?sw(8)
+print erroron 
+JTran 1,90
+SavePoints "robot1.pts"
+here p1 
+go here :z(-50)
+Pulse 0,0,0,0 
+Power High/Low 
+```
+
+<h3>Ejemplo 2</h3>
 
 ```SPEL+
 Go JA(-90,90,0,0,0,0)
@@ -74,6 +82,8 @@ Jump JA(0,90,-50,0,0,0)
 Jump JA(90,90,0,0,0,0)
 ```
 
+<h3>Ejemplo 3</h3>
+
 ```SPEL+
 Function main 
 	Go P1 
@@ -81,6 +91,8 @@ Function main
 	Go P0 
 Fend 
 ```
+
+<h3>Ejemplo 4</h3>
 
 ```SPEL+
 Function main 
@@ -93,6 +105,8 @@ Function main
 	Go P0 
 Fend 
 ```
+
+<h3>Ejemplo 5</h3>
 
 ```SPEL+
 Function main
@@ -108,7 +122,7 @@ Function main
 	Motor Off
 Fend
 ```
-
+<h3>Ejemplo 6</h3>
 
 ```SPEL+
 Function main
@@ -122,7 +136,7 @@ Function main
 Fend
 ```
 
-<h3>Ejemplo 2</h3>
+<h3>Ejemplo 7</h3>
 
 ```SPEL+
 Function main
@@ -146,5 +160,3 @@ Function ENABLE_ARMS As Boolean
 	ENABLE_ARMS = True
 Fend
 ```
-
-<h3>Ejemplo 3</h3>
