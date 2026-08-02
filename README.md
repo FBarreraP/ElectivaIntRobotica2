@@ -147,10 +147,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
         <td>Segundo (33%)</td> <td>Quices y/o laboratorio</td> <td>33%</td> <td>21/09/2026<br>23/09/2026<br>28/09/2026<br>30/09/2026<br>05/10/2026<br>07/10/2026</td>
     </tr>
     <tr>
-        <td rowspan="2">Tercer (34%)</td> <td>Quices y/o laboratorio</td> <td>14%</td> <td>19/10/2026<br>21/10/2026<br>26/10/2026<br>28/10/2026<br>04/11/2026<br>09/11/2026<br>11/11/2026<br>18/11/2026</td>
+        <td rowspan="2">Tercer (34%)</td> <td>Quices y/o laboratorio</td> <td>20.4%</td> <td>19/10/2026<br>21/10/2026<br>26/10/2026<br>28/10/2026<br>04/11/2026<br>09/11/2026<br>11/11/2026<br>18/11/2026</td>
     </tr>
     <tr>
-        <td>Proyecto</td> <td>20%</td> <td>19/10/2026<br>21/10/2026<br>26/10/2026<br>28/10/2026<br>04/11/2026<br>09/11/2026<br>11/11/2026<br>18/11/2026</td>
+        <td>Proyecto</td> <td>13.6%</td> <td>19/10/2026<br>21/10/2026<br>26/10/2026<br>28/10/2026<br>04/11/2026<br>09/11/2026<br>11/11/2026<br>18/11/2026</td>
     </tr>
 </table>
 
