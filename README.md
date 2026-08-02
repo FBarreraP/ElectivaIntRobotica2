@@ -130,7 +130,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
         <td>16/11/2026</td> <td>2</td> <td>31</td> <td>16</td> <td>FESTIVO</td>
     </tr>
     <tr>
-        <td>29/11/2026</td> <td>2</td> <td>32</td> <td>16</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto<br>Entrega de notas tercer corte</td>
+        <td>18/11/2026</td> <td>2</td> <td>32</td> <td>16</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto<br>Entrega de notas tercer corte</td>
     </tr><!--Finalización de clases-->
 </table>
 
@@ -141,16 +141,16 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
         <td>Corte</td> <td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td>
     </tr>
     <tr>
-        <td>Primer (33%)</td> <td>Quices y/o laboratorio</td> <td>33%</td> <td>20/02/2026<br>23/02/2026<br>27/02/2026<br>02/03/2026<br>06/03/2026</td> <td rowspan="4">Presencial</td>
+        <td>Primer (33%)</td> <td>Quices y/o laboratorio</td> <td>33%</td> <td>24/08/2026<br>26/08/2026<br>31/08/2026<br>02/09/2026</td> <td rowspan="4">Presencial</td>
     </tr>
     <tr>
-        <td>Segundo (33%)</td> <td>Quices y/o laboratorio</td> <td>33%</td> <td>27/03/2026<br>06/04/2026<br>10/04/2026<br>13/04/2026<br>17/04/2026</td>
+        <td>Segundo (33%)</td> <td>Quices y/o laboratorio</td> <td>33%</td> <td>21/09/2026<br>23/09/2026<br>28/09/2026<br>30/09/2026<br>05/10/2026<br>07/10/2026</td>
     </tr>
     <tr>
-        <td rowspan="2">Tercer (34%)</td> <td>Quices y/o laboratorio</td> <td>14%</td> <td>24/04/2026<br>27/04/2026<br>04/05/2026<br>08/05/2026<br>11/05/2026<br>15/05/2026<br>22/05/2026<br>25/05/2026<br>29/05/2026</td>
+        <td rowspan="2">Tercer (34%)</td> <td>Quices y/o laboratorio</td> <td>14%</td> <td>19/10/2026<br>21/10/2026<br>26/10/2026<br>28/10/2026<br>04/11/2026<br>09/11/2026<br>11/11/2026<br>18/11/2026</td>
     </tr>
     <tr>
-        <td>Proyecto</td> <td>20%</td> <td>24/04/2026<br>27/04/2026<br>04/05/2026<br>08/05/2026<br>11/05/2026<br>15/05/2026<br>22/05/2026<br>25/05/2026<br>29/05/2026</td>
+        <td>Proyecto</td> <td>20%</td> <td>19/10/2026<br>21/10/2026<br>26/10/2026<br>28/10/2026<br>04/11/2026<br>09/11/2026<br>11/11/2026<br>18/11/2026</td>
     </tr>
 </table>
 
