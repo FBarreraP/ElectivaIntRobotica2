@@ -71,7 +71,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
         <td>16/09/2026</td> <td>2</td> <td>14</td> <td>7</td> <td>Practica robot SCARA</td>
     </tr>
     <tr>
-        <td>21/09/2026</td> <td>2</td> <td>15</td> <td>8</td> <td>FESTIVO</td>
+        <td>21/09/2026</td> <td>2</td> <td>15</td> <td>8</td> <td>Desarrollo y/o entrega de Laboratorio</td>
     </tr>
     <tr>
         <td>23/09/2026</td> <td>2</td> <td>16</td> <td>8</td> <td>Desarrollo y/o entrega de Laboratorio</td>
@@ -106,7 +106,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
         <td>19/10/2026</td> <td>2</td> <td>23</td> <td>12</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
     </tr>
     <tr>
-        <td>21/10/2026</td> <td>2</td> <td>24</td> <td>13</td> <td>FESTIVO</td>
+        <td>21/10/2026</td> <td>2</td> <td>24</td> <td>13</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
     </tr>
     <tr>
         <td>26/10/2026</td> <td>2</td> <td>25</td> <td>13</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
