@@ -13,127 +13,124 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <h3>TEMAS 🤓</h3>
 
-<h4>Primer corte</h4>
+<h4>Primer corte 9AN</h4>
 
 <table>
     <tr>
         <td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
     </tr>
     <tr>
-        <td>02/02/2026</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+        <td>03/08/2026</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
     </tr>
     <tr>
-        <td>06/02/2026</td> <td>2</td> <td>2</td> <td>1</td> <td>Introducción a los robots UR</td>
+        <td>05/08/2026</td> <td>2</td> <td>2</td> <td>1</td> <td>Introducción a los robots UR</td>
     </tr>
     <tr>
-        <td>09/02/2026</td> <td>2</td> <td>3</td> <td>2</td> <td>Formación en línea de CB3</td>
+        <td>10/08/2026</td> <td>2</td> <td>3</td> <td>2</td> <td>Formación en línea de CB3</td>
     </tr>
     <tr>
-        <td>13/02/2026</td> <td>2</td> <td>4</td> <td>2</td> <td>UR Sim</td>
+        <td>12/08/2026</td> <td>2</td> <td>4</td> <td>2</td> <td>UR Sim</td>
     </tr>
     <tr>
-        <td>16/02/2026</td> <td>2</td> <td>5</td> <td>3</td> <td>COPPELIA SIM</td>
+        <td>17/08/2026</td> <td>2</td> <td>5</td> <td>3</td> <td>FESTIVO</td>
     </tr>
     <tr>
-        <td>20/02/2026</td> <td>2</td> <td>6</td> <td>3</td> <td>Practica robots UR5 y UR10</td>
+        <td>19/08/2026</td> <td>2</td> <td>6</td> <td>3</td> <td>Practica robots UR5 y UR10</td>
     </tr>
     <tr>
-        <td>23/02/2026</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+        <td>24/08/2026</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
     </tr>
     <tr>
-        <td>27/02/2026</td> <td>2</td> <td>8</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+        <td>26/08/2026</td> <td>2</td> <td>8</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
     </tr>
     <tr>
-        <td>02/03/2026</td> <td>2</td> <td>9</td> <td>5</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+        <td>31/08/2026</td> <td>2</td> <td>9</td> <td>5</td> <td>Desarrollo y/o entrega de Laboratorio</td>
     </tr>
     <tr>
-        <td>06/03/2026</td> <td>2</td> <td>10</td> <td>5</td> <td>Desarrollo y/o entrega de Laboratorio<br>Entrega de notas primer corte</td>
+        <td>02/09/2026</td> <td>2</td> <td>10</td> <td>5</td> <td>Desarrollo y/o entrega de Laboratorio<br>Entrega de notas primer corte</td>
     </tr><!--semana de parciales del primer corte--><!--semana de registro de notas del primer corte-->
 
 </table>
 
-<h4>Segundo corte</h4>
+<h4>Segundo corte 9AN</h4>
 
 <table>
     <tr>
         <td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
     </tr>
     <tr>
-        <td>09/03/2026</td> <td>2</td> <td>11</td> <td>6</td> <td>Propuesta de proyecto</td>
+        <td>07/09/2026</td> <td>2</td> <td>11</td> <td>6</td> <td>Propuesta de proyecto</td>
     </tr>
     <tr>
-        <td>13/03/2026</td> <td>2</td> <td>12</td> <td>6</td> <td>Introducción al robot SCARA (EPSON)</td>
+        <td>09/09/2026</td> <td>2</td> <td>12</td> <td>6</td> <td>Introducción al robot SCARA (EPSON)</td>
     </tr>
     <tr>
-        <td>16/03/2026</td> <td>2</td> <td>13</td> <td>7</td> <td>EPSON RC+</td>
+        <td>14/09/2026</td> <td>2</td> <td>13</td> <td>7</td> <td>EPSON RC+</td>
     </tr>
     <tr>
-        <td>20/03/2026</td> <td>2</td> <td>14</td> <td>7</td> <td>Practica robot SCARA</td>
+        <td>16/09/2026</td> <td>2</td> <td>14</td> <td>7</td> <td>Practica robot SCARA</td>
     </tr>
     <tr>
-        <td>23/03/2026</td> <td>2</td> <td>15</td> <td>8</td> <td>FESTIVO</td>
+        <td>21/09/2026</td> <td>2</td> <td>15</td> <td>8</td> <td>FESTIVO</td>
     </tr>
     <tr>
-        <td>27/03/2026</td> <td>2</td> <td>16</td> <td>8</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+        <td>23/09/2026</td> <td>2</td> <td>16</td> <td>8</td> <td>Desarrollo y/o entrega de Laboratorio</td>
     </tr>
     <tr>
-        <td>30/03/2026<br>03/04/2026</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
+        <td>28/09/2026</td> <td>2</td> <td>17</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
     </tr>
     <tr>
-        <td>06/04/2026</td> <td>2</td> <td>17</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+        <td>30/09/2026</td> <td>2</td> <td>18</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
     </tr>
     <tr>
-        <td>10/04/2026</td> <td>2</td> <td>18</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+        <td>05/10/2026</td> <td>2</td> <td>19</td> <td>10</td> <td>Desarrollo y/o entrega de Laboratorioe</td>
     </tr>
     <tr>
-        <td>13/04/2026</td> <td>2</td> <td>19</td> <td>10</td> <td>Desarrollo y/o entrega de Laboratorioe</td>
-    </tr>
-    <tr>
-        <td>17/04/2026</td> <td>2</td> <td>20</td> <td>10</td> <td>Desarrollo y/o entrega de Laboratorio<br>Entrega de notas segundo corte</td>
+        <td>07/10/2026</td> <td>2</td> <td>20</td> <td>10</td> <td>Desarrollo y/o entrega de Laboratorio<br>Entrega de notas segundo corte</td>
     </tr><!--semana de parciales del segundo corte--><!--semana de registro de notas del segundo corte-->
 </table>
 
-<h4>Tercer corte</h4>
+<h4>Tercer corte 9AN</h4>
 
 <table>
     <tr>
         <td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
     </tr>
     <tr>
-        <td>20/04/2026</td> <td>2</td> <td>21</td> <td>11</td> <td>Avance de proyecto</td>
+        <td>12/10/2026</td> <td>2</td> <td>21</td> <td>11</td> <td>FESTIVO</td>
     </tr>
     <tr>
-        <td>24/04/2026</td> <td>2</td> <td>22</td> <td>11</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
+        <td>14/10/2026</td> <td>2</td> <td>22</td> <td>11</td> <td>Avance de proyecto</td>
     </tr>
     <tr>
-        <td>27/04/2026</td> <td>2</td> <td>23</td> <td>12</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
+        <td>19/10/2026</td> <td>2</td> <td>23</td> <td>12</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
     </tr>
     <tr>
-        <td>01/05/2026</td> <td>2</td> <td>24</td> <td>13</td> <td>FESTIVO</td>
+        <td>21/10/2026</td> <td>2</td> <td>24</td> <td>13</td> <td>FESTIVO</td>
     </tr>
     <tr>
-        <td>04/05/2026</td> <td>2</td> <td>25</td> <td>13</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
+        <td>26/10/2026</td> <td>2</td> <td>25</td> <td>13</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
     </tr>
     <tr>
-        <td>08/05/2026</td> <td>2</td> <td>26</td> <td>13</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
+        <td>28/10/2026</td> <td>2</td> <td>26</td> <td>13</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
     </tr>
     <tr>
-        <td>11/05/2026</td> <td>2</td> <td>27</td> <td>14</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
+        <td>02/11/2026</td> <td>2</td> <td>27</td> <td>14</td> <td>FESTIVO</td>
     </tr>
     <tr>
-        <td>15/05/2026</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
+        <td>04/11/2026</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
     </tr>
      <tr>
-        <td>18/05/2026</td> <td>2</td> <td>29</td> <td>15</td> <td>FESTIVO</td>
+        <td>09/11/2026</td> <td>2</td> <td>29</td> <td>15</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
     </tr>
     <tr>
-        <td>22/05/2026</td> <td>2</td> <td>30</td> <td>15</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
+        <td>11/11/2026</td> <td>2</td> <td>30</td> <td>15</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
     </tr>
     <tr>
-        <td>25/05/2026</td> <td>2</td> <td>31</td> <td>16</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto</td>
+        <td>16/11/2026</td> <td>2</td> <td>31</td> <td>16</td> <td>FESTIVO</td>
     </tr>
     <tr>
-        <td>29/05/2026</td> <td>2</td> <td>32</td> <td>16</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto<br>Entrega de notas tercer corte</td>
+        <td>29/11/2026</td> <td>2</td> <td>32</td> <td>16</td> <td>Desarrollo y/o entrega de laboratorio y/o proyecto<br>Entrega de notas tercer corte</td>
     </tr><!--Finalización de clases-->
 </table>
 
@@ -166,6 +163,7 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
         <li> Inicio de clases: Quince (15) minutos después de la hora inicial definida de la clase y el control de asistencia se realiza a cada inicio de clase ⌚</li>
         <li> Fin de clases: Quince (15) minutos antes de la hora final definida de la clase ⏱️</li>
         <li> Respeto en clase 🤝</li>
+        <li> Seguir el conducto regular (profesor, gestor, director, etc.) 📢</li>
         <li> No presto mi computador para presentar laboratorios, talleres y/o proyectos 🤦‍♂️</li>
         <li> Prohibido el uso de celular en quices, parciales y clase 📵</li>
         <li> Permitidas las salidas al baño 🚻 y a recibir llamadas 📲, en los quices y parciales se debe dejar el celular en el puesto para salir al baño</li>
@@ -173,7 +171,7 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
         <li> No es permitido tomar fotos, ni videos en clase 📵. El material de clase está en el siguiente repositorio git: https://github.com/FBarreraP/ElectivaIntRobotica2 </li>
         <li> Los laboratorios y el proyecto consistirán únicamente de montaje y podrán ser realizados en grupos de máximo 4 estudiantes 🧍‍♂️🧍‍♀️🧍‍♂️🧍‍♀️</li>
         <li> Los montajes realizados en protoboard no son aceptados con jumpers, por tanto, deben ser realizados con cable UTP y no son compartidos, es decir, un montaje por grupo 🤷‍♂️</li>
-        <li> Los talleres se calificarán con rúbricas de 0.0 a 5.0 con intervalo de 1.0; las cuales tendrán diferentes entregables con fechas fijas de entrega y el orden de entrega de los grupos será definida por el profesor 💥</li> 
+        <li> Los talleres y proyecto se calificarán con rúbricas de 1.0 a 5.0 con intervalo de 1.0; las cuales tendrán diferentes entregables con fechas fijas de entrega y el orden de entrega de los grupos será definida por el profesor 💥</li> 
         <li> Los parciales y el examen final serán solucionados en hoja examen 📄</li> 
         <li> Uso obligatorio de bata blanca en el laboratorio 🥼</li>
         <li> Quien llegue tarde se adelanta en el tema visto hasta el momento 🏃‍♂️</li>
