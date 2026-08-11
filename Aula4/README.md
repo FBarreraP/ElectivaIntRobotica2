@@ -134,6 +134,29 @@ Un temporizador mide el tiempo que necesitan piezas concretas de un programa par
 <figcaption>Fuente: Autor</figcaption>
 </div>
 
+<h4>UR Sim a robot UR físico</h4>
+
+Lo más recomendable para pasar un archivo de UR Sim al controlador del robot UR es por medio de una memoria USB, para lo cual es importante tener en cuenta que Universal Robots utiliza el formato FAT32. Además, los pasos para compartir una carpeta en VirtualBox son los siguientes:
+
+A. UR Sim (VirtualBox)
+1. Guardar el archivo en formato .urp (ej: PrimerPrograma.urp)
+2. Abrir el terminal (Crtl + alt + t)
+3. Digitar en el terminal: sudo usermod -aG vboxsf ur
+4. Reiniciar la máquina virtual (VirtualBox)
+5. Crear una carpeta compartida en la máquina virtual (ej: ProgramasUR)
+6. Encontrar la carpeta compartida dentro de la ruta: /media/
+7. Copiar el archivo en formato .urp a la carpeta compartida (ej: /media/sf_ProgramasUR/PrimerPrograma.urp)
+
+B. Windows 
+1. Encontrar la carpeta compartida (ej: C:\ProgramasUR\PrimerPrograma.urp)
+2. Copiar el archivo en formato .urp (ej: PrimerPrograma.urp) a la memoria USB
+
+C. Robot UR
+1. Conectar la memoria USB al controlador del robot UR físico
+2. Seleccionar la opción: Abrir programa
+3. Seleccionar la opción USB
+4. Seleccionar el archivo deseado en formato .urp (ej: PrimerPrograma.urp)
+
 <h3>Ejemplo</h3>
 
 <div align="center">
