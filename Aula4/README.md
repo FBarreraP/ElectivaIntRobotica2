@@ -142,6 +142,18 @@ A. Windows
 1. Crear una carpeta, la cual será compartida con URSim (ej: C:\ProgramasUR)
 
 B. URSim (VirtualBox)
+<ol>
+  <li>Primer elemento</li>
+  <li>Segundo elemento
+    <ol>
+      <li>Sub-elemento 2.1</li>
+      <li>Sub-elemento 2.2</li>
+    </ol>
+  </li>
+  <li>Tercer elemento</li>
+</ol>
+
+
 1. Configurar la carpeta en Windows como carpeta compartida:
 1.1. Seleccionar la máquina virtual de URSim.
 1.2. Seleccionar la opción "Configuraciones".
