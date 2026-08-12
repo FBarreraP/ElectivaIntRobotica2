@@ -160,10 +160,10 @@ B. URSim (VirtualBox)
   <li>Copiar el archivo en formato .urp a la carpeta compartida (ej: /media/sf_ProgramasUR/PrimerPrograma.urp)</li>
 </ol>
 
-Windows
+C. Windows
 1. Copiar el archivo en formato .urp (ej: PrimerPrograma.urp) de la carpeta compartida a la memoria USB
 
-C. Robot UR
+D. Robot UR
 1. Conectar la memoria USB al controlador del robot UR físico
 2. Seleccionar la opción: Abrir programa
 3. Seleccionar la opción USB
