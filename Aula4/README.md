@@ -1,13 +1,13 @@
 <h1>Aula 4</h1>
 
-Esta clase consiste en aprender a utilizar el simulador para los robots UR5 y UR10 (UR sim).
+Esta clase consiste en aprender a utilizar el simulador para los robots UR5 y UR10 (URSim).
 
-<h2>UR Sim</h2>
+<h2>URSim</h2>
 
-El sistema operativo para el simulador de UR está basado en Ubuntu, por tanto, se debe instalar una máquina virtual (ej: wmware, virtualbox, etc.). El link para descargar virtualbox se encuentra <a href="https://www.virtualbox.org/wiki/Downloads">aquí</a>. El link para descargar UR Sim se encuentra <a href="https://www.universal-robots.com/download/software-cb-series/simulator-non-linux/offline-simulator-cb-series-non-linux-ursim-3158/">aquí</a>
+El sistema operativo para el simulador de UR está basado en Ubuntu, por tanto, se debe instalar una máquina virtual (ej: wmware, virtualbox, etc.). El link para descargar virtualbox se encuentra <a href="https://www.virtualbox.org/wiki/Downloads">aquí</a>. El link para descargar URSim se encuentra <a href="https://www.universal-robots.com/download/software-cb-series/simulator-non-linux/offline-simulator-cb-series-non-linux-ursim-3158/">aquí</a>
 
 <div align="center">
-<img src="Imagenes/image.png" alt="UR Sim"/>
+<img src="Imagenes/image.png" alt="URSim"/>
 <br>
 <figcaption>Fuente: https://academy.universal-robots.com/es/formacion-en-linea-gratuita/</figcaption>
 </div>
@@ -134,22 +134,29 @@ Un temporizador mide el tiempo que necesitan piezas concretas de un programa par
 <figcaption>Fuente: Autor</figcaption>
 </div>
 
-<h4>UR Sim a robot UR físico</h4>
+<h4>URSim a robot UR físico</h4>
 
-Lo más recomendable para pasar un archivo de UR Sim al controlador del robot UR es por medio de una memoria USB, para lo cual es importante tener en cuenta que Universal Robots utiliza el formato FAT32. Además, los pasos para compartir una carpeta en VirtualBox son los siguientes:
+Lo más recomendable para pasar un archivo de URSim al controlador del robot UR es por medio de una memoria USB, para lo cual es importante tener en cuenta que Universal Robots utiliza el formato FAT32. Además, los pasos para compartir una carpeta en VirtualBox son los siguientes:
 
-A. UR Sim (VirtualBox)
-1. Guardar el archivo en formato .urp (ej: PrimerPrograma.urp)
-2. Abrir el terminal (Crtl + alt + t)
-3. Digitar en el terminal: sudo usermod -aG vboxsf ur
-4. Reiniciar la máquina virtual (VirtualBox)
-5. Crear una carpeta compartida en la máquina virtual (ej: ProgramasUR)
-6. Encontrar la carpeta compartida dentro de la ruta: /media/
-7. Copiar el archivo en formato .urp a la carpeta compartida (ej: /media/sf_ProgramasUR/PrimerPrograma.urp)
+A. Windows 
+1. Crear una carpeta, la cual será compartida con URSim (ej: C:\ProgramasUR)
 
-B. Windows 
-1. Encontrar la carpeta compartida (ej: C:\ProgramasUR\PrimerPrograma.urp)
-2. Copiar el archivo en formato .urp (ej: PrimerPrograma.urp) a la memoria USB
+B. URSim (VirtualBox)
+1. Configurar la carpeta en Windows como carpeta compartida:
+1.1. Seleccionar la máquina virtual de URSim.
+1.2. Seleccionar la opción "Configuraciones".
+1.3. Seleccionar la opción "Carpetas compartidas".
+1.4. Seleccionar la opción "Agregar carpeta".
+1.5. Configurar la ruta y el nombre de la nueva carpeta; además, marcar solamente la casilla "Automontar".
+2. Guardar el archivo en formato .urp en la carpeta por defecto (ej: /home/ur/ursim-current/programs.UR5/PrimerPrograma.urp)
+3. Abrir el terminal (Crtl + alt + t), ejecutar el siguiente comando: ls /media y verificar que aparezca la carpeta compartida (ej: sf_ProgramasUR)
+4. Ejecutar en el terminal el siguiente comando: sudo usermod -aG vboxsf ur
+5. Reiniciar URSim
+4. Encontrar en el explorador de archivos la carpeta compartida dentro de la ruta: /media/
+5. Copiar el archivo en formato .urp a la carpeta compartida (ej: /media/sf_ProgramasUR/PrimerPrograma.urp)
+
+Windows
+1. Copiar el archivo en formato .urp (ej: PrimerPrograma.urp) de la carpeta compartida a la memoria USB
 
 C. Robot UR
 1. Conectar la memoria USB al controlador del robot UR físico
@@ -160,7 +167,7 @@ C. Robot UR
 <h3>Ejemplo</h3>
 
 <div align="center">
-<img src="Imagenes/URSim_Cuadrado.png" alt="Ejemplo UR Sim"/>
+<img src="Imagenes/URSim_Cuadrado.png" alt="Ejemplo URSim"/>
 <br>
 <figcaption>Fuente: Autor</figcaption>
 </div>
