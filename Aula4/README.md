@@ -143,29 +143,21 @@ A. Windows
 
 B. URSim (VirtualBox)
 <ol>
-  <li>Primer elemento</li>
-  <li>Segundo elemento
+  <li>Configurar la carpeta en Windows como carpeta compartida:</li>
     <ol>
-      <li>Sub-elemento 2.1</li>
-      <li>Sub-elemento 2.2</li>
+      <li>Seleccionar la máquina virtual de URSim/li>
+      <li>Seleccionar la opción "Configuraciones"</li>
+      <li>Seleccionar la opción "Carpetas compartidas"</li>
+      <li>Seleccionar la opción "Agregar carpeta"</li>
+      <li>Configurar la ruta y el nombre de la nueva carpeta; además, marcar solamente la casilla "Automontar"</li>
     </ol>
-  </li>
-  <li>Tercer elemento</li>
+  <li>Guardar el archivo en formato .urp en la carpeta por defecto (ej: /home/ur/ursim-current/programs.UR5/PrimerPrograma.urp)</li>
+  <li>Abrir el terminal (Crtl + alt + t), ejecutar el siguiente comando: ls /media y verificar que aparezca la carpeta compartida (ej: sf_ProgramasUR)</li>
+  <li>Ejecutar en el terminal el siguiente comando: sudo usermod -aG vboxsf ur</li>
+  <li>Reiniciar URSim</li>
+  <li>Encontrar en el explorador de archivos la carpeta compartida dentro de la ruta: /media/</li>
+  <li>Copiar el archivo en formato .urp a la carpeta compartida (ej: /media/sf_ProgramasUR/PrimerPrograma.urp)</li>
 </ol>
-
-
-1. Configurar la carpeta en Windows como carpeta compartida:
-1.1. Seleccionar la máquina virtual de URSim.
-1.2. Seleccionar la opción "Configuraciones".
-1.3. Seleccionar la opción "Carpetas compartidas".
-1.4. Seleccionar la opción "Agregar carpeta".
-1.5. Configurar la ruta y el nombre de la nueva carpeta; además, marcar solamente la casilla "Automontar".
-2. Guardar el archivo en formato .urp en la carpeta por defecto (ej: /home/ur/ursim-current/programs.UR5/PrimerPrograma.urp)
-3. Abrir el terminal (Crtl + alt + t), ejecutar el siguiente comando: ls /media y verificar que aparezca la carpeta compartida (ej: sf_ProgramasUR)
-4. Ejecutar en el terminal el siguiente comando: sudo usermod -aG vboxsf ur
-5. Reiniciar URSim
-4. Encontrar en el explorador de archivos la carpeta compartida dentro de la ruta: /media/
-5. Copiar el archivo en formato .urp a la carpeta compartida (ej: /media/sf_ProgramasUR/PrimerPrograma.urp)
 
 Windows
 1. Copiar el archivo en formato .urp (ej: PrimerPrograma.urp) de la carpeta compartida a la memoria USB
