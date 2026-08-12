@@ -153,7 +153,7 @@ B. URSim (VirtualBox)
     </ol>
   <li>Guardar el archivo en formato .urp en la carpeta por defecto (ej: /home/ur/ursim-current/programs.UR5/PrimerPrograma.urp)</li>
   <li>Abrir el terminal (Crtl + alt + t), ejecutar el siguiente comando: ls /media</li>
-  <li>verificar que aparezca la carpeta compartida (ej: sf_ProgramasUR)</li>
+  <li>Verificar que aparezca la carpeta compartida (ej: sf_ProgramasUR)</li>
   <li>Ejecutar en el terminal el siguiente comando: sudo usermod -aG vboxsf ur</li>
   <li>Reiniciar URSim</li>
   <li>Encontrar en el explorador de archivos la carpeta compartida dentro de la ruta: /media/</li>
