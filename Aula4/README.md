@@ -152,6 +152,7 @@ B. URSim (VirtualBox)
       <li>Configurar la ruta y el nombre de la nueva carpeta; además, marcar solamente la casilla "Automontar"</li>
     </ol>
   <li>Guardar el archivo en formato .urp en la carpeta por defecto (ej: /home/ur/ursim-current/programs.UR5/PrimerPrograma.urp)</li>
+  <li>Reiniciar URSim</li>
   <li>Abrir el terminal (Crtl + alt + t), ejecutar el siguiente comando: ls /media</li>
   <li>Verificar que aparezca la carpeta compartida (ej: sf_ProgramasUR)</li>
   <li>Ejecutar en el terminal el siguiente comando: sudo usermod -aG vboxsf ur</li>
